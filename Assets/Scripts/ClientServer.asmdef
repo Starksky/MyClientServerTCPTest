@@ -1,0 +1,17 @@
+{
+    "name": "ClientServer",
+    "references": [
+        "GUID:9f345adbe4294328b8c5022bc769e467",
+        "GUID:f4f86b8cc87442ba959789765dbb8b52",
+        "GUID:e80d61c77f86462e9db3eeaf9c80b034"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

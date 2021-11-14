@@ -1,0 +1,15 @@
+{
+    "name": "Client",
+    "references": [
+        "GUID:9f345adbe4294328b8c5022bc769e467"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
